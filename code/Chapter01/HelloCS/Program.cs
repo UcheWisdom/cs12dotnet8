@@ -6,3 +6,6 @@ Console.WriteLine($"Namespace: {name}");
 
 throw new Exception();
 int z;
+
+z = 100;
+Console.WriteLine($"Hello world {z}");
